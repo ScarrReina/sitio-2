@@ -1,0 +1,9 @@
+body{
+	background: conic-gradient(cyan,lightpink);
+}
+nav ul{
+	list-style-type: none ;
+	width: 600;
+	text-align: center;
+	background: #99F4F3;
+}
